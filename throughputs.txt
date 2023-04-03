@@ -1,0 +1,2 @@
+Intel(R)Xeon(R)CPUE5-1620v3@3.50GHz:regular:20092
+Intel(R)Core(TM)i7-8650UCPU@1.90GHz:regular:20358
